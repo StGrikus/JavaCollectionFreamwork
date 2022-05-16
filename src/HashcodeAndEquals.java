@@ -21,7 +21,7 @@ public class HashcodeAndEquals {
         System.out.println(set);
     }
 }
-
+/*
 class Person {
     private int id;
     private String name;
@@ -57,3 +57,4 @@ class Person {
         return result;
     }
 }
+ */
